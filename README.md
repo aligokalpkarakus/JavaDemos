@@ -1,2 +1,2 @@
 # JavaDemos
-I'm learning Java, so these are the codes I'm writing while taking the course.
+This repository includes various standalone Java applications and examples developed during my learning journey.
